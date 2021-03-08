@@ -1,0 +1,11 @@
+.found{
+    font-weight: 400;
+    margin-left: 40px;
+}
+.NotFound button {
+    background-color: goldenrod;
+    height: 30px;
+    width: 100px;
+    border: 1px solid green;
+    margin-left: 40px;
+}

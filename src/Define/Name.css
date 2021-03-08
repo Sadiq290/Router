@@ -1,0 +1,40 @@
+img{
+     height: 200px;
+     margin: 20px 0px;
+}
+.name{
+    margin-left: 20px;
+    padding: 20px;
+}
+.name h3{
+    color:blue;
+    padding: 20px 0px 0px 0px;
+}
+.page{
+    margin: 40px;
+    background-color: goldenrod;
+    width: 500px;
+    border-radius: 2%;
+}
+h5{
+    font-size: 18px;
+}
+a{
+    text-decoration: none;
+    /* color: brown; */
+}
+@media (max-width: 600px) { 
+    .page{
+        margin: 40px;
+        background-color: goldenrod;
+        width: 300px;
+        border-radius: 2%;
+    }
+    .name{
+        margin-left: 0px;
+    }
+    img{
+        height: 300px;
+        width: 250px;
+   }
+}
